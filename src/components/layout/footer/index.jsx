@@ -20,12 +20,12 @@ const Footer = () => {
 							))}
 						</FooterSocialMedia>
 						<div>
-							<p className="text-primary quote"> Ready to take the next step and work together? </p>
+							<p className="text-primary quote"> If you feel like our interests align, feel free to reach out.</p>
 							<ButtonDefault href={`mailto:${data.SiteContact.email}`}> Contact me </ButtonDefault>
 						</div>
 					</FooterBody>
 					<div className="box">
-						<SubRight> Good design doesn't date. Bad design does. </SubRight>
+						<SubRight> Building the future of the computer networks and web apps, one algorithm at a time. </SubRight>
 						<CopyRight className="text-dark">
 							© 
 							<span> {new Date().getFullYear()}, Built with {` `} 
