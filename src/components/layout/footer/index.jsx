@@ -25,7 +25,7 @@ const Footer = () => {
 						</div>
 					</FooterBody>
 					<div className="box">
-						<SubRight> Building the future of networks and web apps, one algorithm at a time. </SubRight>
+						<SubRight> Building the future of network infrastructure, one algorithm at a time. </SubRight>
 						<CopyRight className="text-dark">
 							© 
 							<span> {new Date().getFullYear()}, Built with {` `} 
