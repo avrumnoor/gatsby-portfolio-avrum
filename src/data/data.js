@@ -1,10 +1,10 @@
 module.exports = {
-  SiteTitle: 'Abdelali',
+  SiteTitle: 'Avrum',
   Sitelogo: '#',
-  SiteLogoText: 'Abdelali',
-  SiteAuthor: 'Abdelali Dahir',
-  SiteDescription: 'Front End Developer',
-  defaultDescription: 'Software engineer!', 
+  SiteLogoText: 'Avrum',
+  SiteAuthor: 'Avrum Noor',
+  SiteDescription: 'Electrical engineer',
+  defaultDescription: 'Electrica engineer!', 
   githubApiQuery: `query ($number_of_repos: Int!) {
     viewer {
       name
@@ -42,9 +42,9 @@ module.exports = {
     number_of_repos: 12,
   }, 
   SiteSocialLinks: {
-    twitter: 'https://twitter.com/AbdaliDahir',
-    github: 'https://github.com/AbdaliDahir',
-    linkedin: 'https://www.linkedin.com/in/abdelali-dahir-0b5344111/',
+    twitter: '',
+    github: 'https://github.com/avrumnoor',
+    linkedin: 'https://www.linkedin.com/in/avrumnoor/',
   },
   SiteAddress: {
     city: 'Casablanca',
@@ -53,8 +53,8 @@ module.exports = {
     zipCode: 'ZipCode',
   },
   SiteContact: {
-    email: 'abdali.dahir@gmail.com',
+    email: 'avrum@stanford.edu',
     phone: 'phone number',
   },
-  SiteCopyright: '2020',
+  SiteCopyright: '2021',
 };
