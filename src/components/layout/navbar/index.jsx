@@ -5,14 +5,14 @@ import { User, Briefcase, Feather, Smile, GitHub } from 'react-feather'
 
 import {NavbarElement, NavbarList, NavbarLogo} from './style'
 
-const Navbar = ({ Avrum }) => (
+const Navbar = (AVRUM) => (
   <nav>
     <div className="container">
       <NavbarElement>
           <NavbarLogo>
             <h3>
               <Link to="/">
-                <Smile className="align-middle"/> <span className="align-middle"> {Avrum} </span>
+                <Smile className="align-middle"/> <span className="align-middle"> AVRUM </span>
               </Link>
             </h3>
           </NavbarLogo> 

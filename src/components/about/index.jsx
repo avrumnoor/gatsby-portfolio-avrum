@@ -26,7 +26,7 @@ const About = () => {
             </div> 
             <div>
               <Title> Hello, I’m Avrum Noor.</Title>
-              <Text> I'm an Electrical Engineer, Network Research, and digital Front End Developer hailing from <b className="text-primary lined-link">Indonesia</b> living in Stanford, CA.</Text>
+              <Text> I'm an Electrical Engineer, Network Researcher, and digital Front End Developer hailing from <b className="text-primary lined-link">Indonesia</b> living in Stanford, CA.</Text>
               <Text> I love working with modern technologies, building and designing awesome projects. I'm a huge proponent for <b className="text-primary lined-link">skeuomorphism</b>.</Text>
               <Text> I'm currently researching network algorithms and resource allocation tools at Stanford's NetLab.
               </Text>
