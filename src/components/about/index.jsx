@@ -26,10 +26,11 @@ const About = () => {
             </div> 
             <div>
               <Title> Hello, I’m Avrum Noor.</Title>
-              <Text> I'm an Electrical Engineer, Network Researcher, and digital Front End Developer hailing from <b className="text-primary lined-link">Indonesia</b> living in Stanford, CA.</Text>
-              <Text> I love working with modern technologies, building and designing awesome projects. I'm a huge proponent for <b className="text-primary lined-link">skeuomorphism</b>.</Text>
-              <Text> I'm currently researching network algorithms and resource allocation tools at Stanford's NetLab.
+              <Text> I'm a Junior studying <b className="text-primary lined-link">Electrical Engineering</b> at <b className="text-primary lined-link">Stanford, University</b>.</Text>
+              <Text> I love working with modern technologies, studying computer networks and systems, and designing progressive web applications. I'm a huge proponent for <b className="text-primary lined-link">skeuomorphism</b>.</Text>
+              <Text> I'm currently researching network algorithms and resource allocation tools at Stanford's NetLab. 
               </Text>
+              <Text> I'm originally from <b className="text-primary lined-link">Jakarta, Indonesia</b>.</Text>
               <ResumeButton href="resume.pdf" target="_blank"> Download resume </ResumeButton>
             </div>
           </AboutSection>
