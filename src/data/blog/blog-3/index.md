@@ -3,12 +3,20 @@ title: Fun Web Development Frameworks You Never Knew Existed
 categories: ["frameworks", "jekyll", "hugo", "gatsby", "web development"]
 image: "./e4d5ed47ee58aa859995cae2a4e83221.webp"
 imageCredit: https://dribbble.com/shots/13972666-faces
-date: "2015-05-01T22:12:03.284Z"
+date: "2020-06-23T22:12:03.284Z"
 time: 3
-description: "You probably have heard of React, Angular, and Vue. They're popular JavaScript frameworks that many professional
-web developers use to build fancy website with great functionalities. Most importantly, they make web development a fun and easy
-task. However, did you know that there are easier frameworks to use? Check out these other simple-to-use web development frameworks."
+description: "Many of you probably have heard of React, Angular, and Vue. They're popular JavaScript frameworks that many professional web developers use to build fancy website with great functionalities. They make web development fun, easy, and accessible to everyone. However, did you know that there are other frameworks that are much easier than React, Angular, and Vue, some of which are based on programming languages other than JavaScript? Check out my favourite non-popular, simple-to-use web development frameworks in this article."
 ---
+
+# Fun Web Development Frameworks You Never Knew Existed
+
+> Many of you probably have heard of React, Angular, and Vue. They're popular JavaScript frameworks that many professional web developers use to build fancy website with great functionalities. They make web development fun, easy, and accessible to everyone. However, did you know that there are other frameworks that are much easier than React, Angular, and Vue, some of which are based on programming languages other than JavaScript? Check out my favourite non-popular, simple-to-use web development frameworks in this article.
+
+## 1. Jekyll
+
+## 2. Hugo
+
+## 3. Gatsby
 
 This is my first post on my new fake blog! How exciting!
 
