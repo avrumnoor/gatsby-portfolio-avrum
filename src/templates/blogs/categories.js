@@ -142,7 +142,6 @@ export const pageQuery = graphql`
               }
             }
             categories
-            imageCredit
             description
           }
         }
