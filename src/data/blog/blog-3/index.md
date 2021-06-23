@@ -8,7 +8,6 @@ description: "Many of you probably have heard of React, Angular, and Vue. They'r
 ---
 
 ![Thumbnail](./thumbnail_1.png)
-**Image Credits:** [Avrum Noor](https://avrumnoor.gatsbyjs.io/)
 
 Many of you probably have heard of React, Angular, and Vue. They're popular JavaScript frameworks that many professional web developers use to build fancy websites with ground-breaking functionalities and smooth animations. They also make web development fun, easy, and accessible to everyone. However, did you know that there are other frameworks that are much easier than React, Angular, and Vue, some of which are based on programming languages other than JavaScript? Here are 3 other web development frameworks you may never have heard of.
 
