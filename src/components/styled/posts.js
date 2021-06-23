@@ -33,8 +33,9 @@ export const ArticleBody = styled.div `
   margin-top: 5rem;
   p {
     font-size: 1.5rem;
-    font-family: "GT-Walsheim-Pro-Medium";
+    font-family: "GT-Walsheim-Pro-Regular";
   }
+  text-align: left;
 `
 
 export const NaviagtionList = styled.ul`
