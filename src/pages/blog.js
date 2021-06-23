@@ -14,16 +14,16 @@ const BlogIndex = ({ data }) => {
   return (
     <>
       <Layout> 
-        <SEO title="Blog Home Page" />
+        <SEO title="Avrum's Resources" />
         <Intro>
           <ContainerLayout>
 
             <SubTitle>
-              Articles
+              Resources
             </SubTitle>
             <HeaderIntro>
               <SubText>
-                Articles on front-end design engineering, focused on HTML, CSS, SVG, accessiblity, and everything in between, with practical tips from real projects.
+                Resources on front-end design engineering, focused on HTML, CSS, SVG, accessiblity, and everything in between, with practical tips from real projects.
               </SubText>
               <CategoriesTags /> 
             </HeaderIntro>
@@ -39,12 +39,6 @@ const BlogIndex = ({ data }) => {
                           <Img fluid={node.frontmatter.image.childImageSharp.fluid} title="work title" />
                         </Link> 
                       </div>
-                      <SmallText>
-                        Image Credits : 
-                        <UnderLink href={node.frontmatter.imageCredit} target="_blank" title="image credit">
-                          {node.frontmatter.imageCredit}
-                        </UnderLink>
-                      </SmallText>
                     </div>
                     
                     <div className="content">
