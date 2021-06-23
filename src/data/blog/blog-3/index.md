@@ -16,10 +16,9 @@ Many of you probably have heard of React, Angular, and Vue. They're popular Java
 
 # 1. Jekyll
 
-![jekyll_logo](https://jekyllrb.com/img/logo-2x.png)
-Jekyll is one of the most beginner-friendly web development frameworks out there. It’s written in Ruby by Tom Preston-Werner, GitHub's co-founder. Since it's written by Github's co-founder, it's only right that it's a built-in feature within Github. And that's exactly what Jekyll is: it's web development framework that can directly be used within Github to convert any markdown style files you have within your Github repository into blog or articles that you can host with Github Pages for free.
+![jekyll_logo](https://jekyllrb.com/img/logo-2x.png) Jekyll is one of the most beginner-friendly web development frameworks out there. It’s written in Ruby by Tom Preston-Werner, GitHub's co-founder. Since it's written by Github's co-founder, it's only right that it's a built-in feature within Github. And that's exactly what Jekyll is: it's web development framework that can directly be used within Github to convert any markdown style files you have within your Github repository into web pages or articles that you can host with Github Pages for free.
 
-My only real complaint of Jekyll is that the layouts are too simple and they lack the flair that many modern blogs have. However,
+My only real complaint of Jekyll is that the layouts are too simple and they lack the flair that many modern sites have. However,
 if you're interested in building professional company websites without having to work with databases, then Jekyll's the way to go.
 
 You can check out Jekyll [here.](https://jekyllrb.com/)
