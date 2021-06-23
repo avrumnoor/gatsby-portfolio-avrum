@@ -41,12 +41,6 @@ const Categories = ({ data }) => {
                         <Img fluid={node.frontmatter.image.childImageSharp.fluid} title="work title" />
                       </Link> 
                     </div>
-                    <SmallText>
-                      Image Credits : 
-                      <UnderLink href={node.frontmatter.imageCredit} target="_blank" title="image credit">
-                        {node.frontmatter.imageCredit}
-                      </UnderLink>
-                    </SmallText>
                   </div>
                   
                   <div className="content">
