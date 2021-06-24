@@ -28,10 +28,11 @@ const Footer = () => {
 						<SubRight> Building the future of network infrastructure, one algorithm at a time. </SubRight>
 						<CopyRight className="text-dark">
 							© 
-							<span> {new Date().getFullYear()}, Built with {` `} 
-								<a href="https://www.gatsbyjs.org">Gatsby</a>{" "}
-          		</span> 
-							Copyright 2021 by {data.SiteAuthor} </CopyRight>
+							<span> 
+								{new Date().getFullYear()}
+          					</span> 
+							{data.SiteAuthor} 
+						</CopyRight>
 					</div>
 				</ContainerLayout>
 			</FooterStyle>
