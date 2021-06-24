@@ -29,7 +29,7 @@ const Footer = () => {
 						<CopyRight className="text-dark">
 							© 
 							<span> 
-								{new Date().getFullYear()}
+								{new Date().getFullYear() }
           					</span> 
 							{data.SiteAuthor} 
 						</CopyRight>
