@@ -29,10 +29,9 @@ const Footer = () => {
 						<CopyRight className="text-dark">
 							© 
 							<span> 
-								{new Date().getFullYear() }
-          					</span> 
-							<span></span>
-							{data.SiteAuthor} 
+								{new Date().getFullYear()}
+          					</span>
+								&nbsp; {data.SiteAuthor} 
 						</CopyRight>
 					</div>
 				</ContainerLayout>
