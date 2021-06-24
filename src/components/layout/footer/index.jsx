@@ -31,6 +31,7 @@ const Footer = () => {
 							<span> 
 								{new Date().getFullYear() }
           					</span> 
+							<span></span>
 							{data.SiteAuthor} 
 						</CopyRight>
 					</div>
