@@ -2,7 +2,7 @@
 title: Defect Chemistry of β''-alumina Fast Ion Conductors 
 tags: ['Python', 'Numpy', 'Scipy', 'Freud']
 category: Stanford Lindenberg Group
-image: 'http://web.stanford.edu/group/lindenberg/cgi-bin/drupal/upload/footer_logo.png'
+image: './engineering_logo.png'
 date: "2020-06-01T22:12:03.284Z"
 description: "β’’-aluminas are commonly used in flow batteries. However, a huge uncertainty still remains on the effects of
 structural defects in the electrolyte on ionic transport and therefore, cell performance. Taking advantage of
