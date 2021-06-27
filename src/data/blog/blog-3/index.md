@@ -40,5 +40,3 @@ to deploy your Gatsby site called Gatsby Cloud that you can sync with GitHub. On
 My only complaint is that the boilerplate templates Gatsby offers you may have some bugs and instructions on how to deploy is rather unclear. Often times, you're left figuring things out on your own. But most bugs are minor and if you're deployed a static site before and have used a content manage system before, the benefits of Gatsby are yours to reap!
 
 You can check out Gatsby [here.](https://www.gatsbyjs.com/)
-
-Web development is evolving and there is an increasing numbers of ways for you to create a website, regardless of whether you're simply trying to increase your online presence or create the next Facebook. With web development becoming more and more accessible and sophisticated at the same time, there wouldn't be any better time to make yourself a website than now.
