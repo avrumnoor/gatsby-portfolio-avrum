@@ -3,7 +3,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { Link, graphql } from "gatsby"
 import Img from "gatsby-image"
-import {Tag, ContainerLayout, WorkPost, Category, Intro, SubTitle, Title, Text} from "../components/common"
+import {Tag, SubText, HeaderIntro, ContainerLayout, WorkPost, Category, Intro, SubTitle, Title, Text} from "../components/common"
 
 const WorkIndex = ({ data }) => {
   const works = data.allMarkdownRemark.edges
@@ -11,7 +11,7 @@ const WorkIndex = ({ data }) => {
   return (
     <>
       <Layout> 
-        <SEO title="Portfolio" />
+        <SEO title="Showcases" />
         <Intro>
           <ContainerLayout>
 
@@ -20,7 +20,7 @@ const WorkIndex = ({ data }) => {
             </SubTitle>
             <HeaderIntro>
               <SubText>
-              An assortment of my recent research and personal projects.
+                An assortment of my recent research and personal projects.
               </SubText>
             </HeaderIntro>
             <ContainerLayout className="wrapper">
