@@ -32,3 +32,13 @@ The only thing I don't like about Hugo is that you'll have to be familiar with u
 You can check out Hugo [here.](https://gohugo.io/)
 
 # 3. Gatsby
+
+![gatsby_logo](https://res.cloudinary.com/practicaldev/image/fetch/s--Fda3jJaA--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2653/80840bff-1061-4544-841e-86da7aa1dd8e.png)Gatsby's the most fun framework in this list in my opinion. It's relatively new and
+is built on top of React, so it's very easy to use once you're familiar with React. It also offers an assortment of templates, some of which work very well with content management systems like Netlify. Gatsby also has their own deployment system for you
+to deploy your Gatsby site called Gatsby Cloud that you can sync with GitHub. Once synced with GitHub, Gatsby Cloud will automatically redeploy your site whenever you make changes to it. My favorite part about Gatsby is how fast your website loads, thanks to Gatsby's ability to automate code splitting, image optimization, inlining critical styles, lazy-loading, prefetching resources.
+
+My only complaint is that the boilerplate templates Gatsby offers you may have some bugs and instructions on how to deploy is rather unclear. Often times, you're left figuring things out on your own. But most bugs are minor and if you're deployed a static site before and have used a content manage system before, the benefits of Gatsby are yours to reap!
+
+You can check out Gatsby [here.](https://www.gatsbyjs.com/)
+
+Web development is evolving and there is an increasing numbers of ways for you to create a website, regardless of whether you're simply trying to increase your online presence or create the next Facebook. With web development becoming more and more accessible and sophisticated at the same time, there wouldn't be any better time to make yourself a website than now.
