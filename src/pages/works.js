@@ -18,7 +18,11 @@ const WorkIndex = ({ data }) => {
             <SubTitle className="text-dark">
               Selected Works
             </SubTitle>
-
+            <HeaderIntro>
+              <SubText>
+              An assortment of my recent research and personal projects.
+              </SubText>
+            </HeaderIntro>
             <ContainerLayout className="wrapper">
               {works.map(({ node }) => {
               const title = node.frontmatter.title || node.fields.slug
