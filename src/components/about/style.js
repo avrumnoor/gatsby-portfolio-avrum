@@ -43,6 +43,17 @@ export const Text = styled.p`
     text-decoration: underline;
   }
 `
+
+export const Text2 = styled.p`
+  font-size: 1.2rem;
+  text-align: center;
+  line-height: 2;
+  color: #232323;
+  a {
+    color: #3F51B5;
+    text-decoration: underline;
+  }
+`
 export const SubTitle = styled.h2`
   font-family: "GT-Walsheim-Pro-Medium";
   margin-top: 3rem;

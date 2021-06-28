@@ -1,6 +1,6 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import {AboutSection, Avatar, Title, Title2, Text, SubTitle} from './style';
+import {AboutSection, Avatar, Title, Title2, Text, Text2, SubTitle} from './style';
 import {SectionIntro, ContainerLayout, ResumeButton} from "../common";
 
 const About = () => {
@@ -40,17 +40,17 @@ const About = () => {
         <AboutSection>
             <div>
               <Title2>My Startups</Title2>
-              <Text> <b className="text-primary lined-link">Stanford Product Hub</b></Text>
-              <Text> <b className="text-primary lined-link">Presque Partout Sino</b></Text>
-              <Text> <b className="text-primary lined-link">BELAJAR</b></Text>
+              <Text2> <b className="text-primary lined-link">Stanford Product Hub</b></Text2>
+              <Text2> <b className="text-primary lined-link">Presque Partout Sino</b></Text2>
+              <Text2> <b className="text-primary lined-link">BELAJAR</b></Text2>
             </div>
             <div>
               <Title2>My Skills</Title2>
-              <Text> <b className="text-primary lined-link">Machine Learning</b></Text>
-              <Text> <b className="text-primary lined-link">Network Research</b></Text>
-              <Text> <b className="text-primary lined-link">Game Theory</b></Text>
-              <Text> <b className="text-primary lined-link">Web Development</b></Text>
-              <Text> <b className="text-primary lined-link">Product Design</b></Text>
+              <Text2> <b className="text-primary lined-link">Machine Learning</b></Text2>
+              <Text2> <b className="text-primary lined-link">Network Research</b></Text2>
+              <Text2> <b className="text-primary lined-link">Game Theory</b></Text2>
+              <Text2> <b className="text-primary lined-link">Web Development</b></Text2>
+              <Text2> <b className="text-primary lined-link">Product Design</b></Text2>
             </div>
           </AboutSection>
       </SectionIntro>
