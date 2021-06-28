@@ -13,24 +13,25 @@ particularly the preferential vacancy sites of mobile ions, regardless of temper
 # Mentors
 
 Dr. Andrey Poletayev, Professor Aaron Lindenberg
+_Department of Materials Science and Engineering, Stanford University_
 
 # Introduction
 
-- Solid electrolytes such as β’’-aluminas are a central part of flow batteries.
+• Solid electrolytes such as β’’-aluminas are a central part of flow batteries.
 
-- β’’-aluminas are used as a model system to understand thermally-activated conduction.
+• β’’-aluminas are used as a model system to understand thermally-activated conduction.
 
-- In β’’-aluminas, the existence of multiple Ea are related to the ordering of mobile ions and the placement of defects.
+• In β’’-aluminas, the existence of multiple Ea are related to the ordering of mobile ions and the placement of defects.
 
 # Methods
 
-- Objective: to understand conduction by controllably perturbing the positions of defects and applying detailed microscopic analyses of molecular dynamics.
+• **Objective**: to understand conduction by controllably perturbing the positions of defects and applying detailed microscopic analyses of molecular dynamics.
 
-- Chose Buckingham potential model, plus a long-range Coulomb force (Hafskjold and Li, 1995).
+• Chose Buckingham potential model, plus a long-range Coulomb force (Hafskjold and Li, 1995).
 
-- No. of atoms: 10680; No. of mobile ions: 600; Duration of simulation: 10ns; Timestep used: 1e-15 seconds.
+• No. of atoms: 10680; No. of mobile ions: 600; Duration of simulation: 10ns; Timestep used: 1e-15 seconds.
 
-- Defect positions investigated:
+• Defect positions investigated:
 
 Assassin
 
