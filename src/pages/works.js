@@ -11,7 +11,7 @@ const WorkIndex = ({ data }) => {
   return (
     <>
       <Layout> 
-        <SEO title="Showcases" />
+        <SEO title="Works" />
         <Intro>
           <ContainerLayout>
 

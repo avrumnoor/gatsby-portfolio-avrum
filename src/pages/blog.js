@@ -14,7 +14,7 @@ const BlogIndex = ({ data }) => {
   return (
     <>
       <Layout> 
-        <SEO title="Avrum's Resources" />
+        <SEO title="Blog" />
         <Intro>
           <ContainerLayout>
 

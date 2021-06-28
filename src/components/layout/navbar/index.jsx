@@ -12,7 +12,7 @@ const Navbar = (AVRUM) => (
           <NavbarLogo>
             <h3>
               <Link to="/">
-                <Smartphone className="align-middle"/> <span className="align-middle"> AVRUM </span>
+                <Smartphone className="align-middle"/> <span className="align-middle"> AVRUM NOOR </span>
               </Link>
             </h3>
           </NavbarLogo> 
@@ -20,7 +20,7 @@ const Navbar = (AVRUM) => (
             <NavbarList>
               <li><Link to="/" className="lined-link" activeClassName="active"> <User /> <span> About </span> </Link></li> 
               <li><Link to="/repositories" className="lined-link" activeClassName="active"> <GitHub /> <span> GitHub </span> </Link></li>  
-              <li><Link to="/works" className="lined-link" activeClassName="active"> <Briefcase /> <span> Work Experience </span> </Link></li>  
+              <li><Link to="/works" className="lined-link" activeClassName="active"> <Briefcase /> <span> Works </span> </Link></li>  
               <li><Link to="/blog" className="lined-link" activeClassName="active"> <Feather /> <span> Blog </span> </Link></li>
             </NavbarList>
           </div>
