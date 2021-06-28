@@ -22,6 +22,8 @@ export const ImgContainer =styled.img`
   margin-left: auto;
   margin-right: auto;
   border-radius: 5px;
+  width: 150px;
+  height: 150px;
   box-shadow: 0px 0px 64px rgba(0, 0, 0, 0.15);
   width: 100%;
 `
