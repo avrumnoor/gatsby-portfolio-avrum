@@ -41,8 +41,8 @@ const About = () => {
         <ContainerLayout>
           <AboutSection>
               <Title>More About Me</Title>
-              <Text> I like to teach myself a little bit of <b className="text-primary lined-link">UI/UX design</b> 
-              on the side and I'm a huge proponent for <b className="text-primary lined-link">skeuomorphism</b>.
+              <Text> I like to teach myself a little bit of <b className="text-primary lined-link">UI/UX design</b> on 
+              the side and I'm a huge proponent for <b className="text-primary lined-link">skeuomorphism</b>.
                 My research interests lie in the applications of <b className="text-primary lined-link">game-theoretic</b> machine learning 
                 and artificial intelligence on resource allocation of communication networks, as well as 
                 designing <b className="text-primary lined-link">human-centered products</b> and studying philosophy.
