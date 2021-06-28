@@ -41,18 +41,10 @@ const About = () => {
         <AboutSection>
             <div>
               <Title2>Startups</Title2>
-              <Text2>Founder</Text2>
-              <Text2> <b className="text-primary lined-link">BELAJAR</b></Text2>
-              &nbsp;
-              <Text2>Founder</Text2>
-              <Text2> <b className="text-primary lined-link">Limbcarnation Prosthetics</b></Text2>
-              &nbsp;
-              <Text2>Co-Founder</Text2>
-              <Text2> <b className="text-primary lined-link">Stanford Product Hub</b></Text2>
-              &nbsp;
-              <Text2>Co-Founder</Text2>
-              <Text2> <b className="text-primary lined-link">Presque Partout Sino</b></Text2>
-              &nbsp;
+              <Text2> Founder of <b className="text-primary lined-link">BELAJAR</b></Text2>
+              <Text2> Founder of <b className="text-primary lined-link">Limbcarnation Prosthetics</b></Text2>
+              <Text2> Co-Founder of <b className="text-primary lined-link">Stanford Product Hub</b></Text2>
+              <Text2> Co-Founder of <b className="text-primary lined-link">Presque Partout Sino</b></Text2>
             </div>
             <div>
               <Title2>Skills</Title2>
@@ -69,11 +61,14 @@ const About = () => {
         <AboutSection>
             <div>
               <Title2>Frameworks/Tools</Title2>
-              <Text2> <b className="text-primary lined-link">GitHub</b></Text2>
-              <Text2> <b className="text-primary lined-link">React</b></Text2>
-              <Text2> <b className="text-primary lined-link">Gatsby</b></Text2>
-              <Text2> <b className="text-primary lined-link">Hugo</b></Text2>
-              <Text2> <b className="text-primary lined-link">Jekyll</b></Text2>
+              <Text2> For Source Control &nbsp; <b className="text-primary lined-link">GitHub</b></Text2>
+              <Text2> For Web Development &nbsp;<b className="text-primary lined-link">React</b></Text2>
+              <Text2> For Web Development &nbsp;<b className="text-primary lined-link">Gatsby</b></Text2>
+              <Text2> For Web Development &nbsp;<b className="text-primary lined-link">Hugo</b></Text2>
+              <Text2> For Web Development &nbsp;<b className="text-primary lined-link">Jekyll</b></Text2>
+              <Text2> For Deployment &nbsp; <b className="text-primary lined-link">GatsbyCloud</b></Text2>
+              <Text2> For Deployment &nbsp; <b className="text-primary lined-link">GitHub Page</b></Text2>
+              <Text2> For CMS and Deployment &nbsp; <b className="text-primary lined-link">Netlify</b></Text2>
             </div>
             <div>
               <Title2>Programming Languages</Title2>
