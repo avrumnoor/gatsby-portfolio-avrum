@@ -38,6 +38,20 @@ const About = () => {
         </ContainerLayout>
       </SectionIntro>
       <SectionIntro>
+        <ContainerLayout>
+          <AboutSection>
+              <Title>More About Me</Title>
+              <Text> I like to teach myself a little bit of <b className="text-primary lined-link">UI/UX design</b> on the side and I'm a huge proponent for 
+              <b className="text-primary lined-link">skeuomorphism</b>.
+                My research interests lie in the applications of <b className="text-primary lined-link">game-theoretic</b> 
+                machine learning 
+                and artificial intelligence on resource allocation of communication networks, as well as 
+                designing <b className="text-primary lined-link">human-centered products</b> and studying philosophy.
+              </Text>
+          </AboutSection>
+        </ContainerLayout>
+      </SectionIntro>
+      <SectionIntro>
         <AboutSection>
             <div>
               <Title2>Startups</Title2>
@@ -76,7 +90,7 @@ const About = () => {
               <Text2>
               <b className="text-primary lined-link">Inkscape</b>,&nbsp;
               <b className="text-primary lined-link">Photoshop</b>&nbsp;
-              Isometric&nbsp;art&nbsp;&&nbsp;graphics&nbsp;design
+              Isometric&nbsp;Art&nbsp;&&nbsp;Graphics&nbsp;Design
               </Text2>
             </div>
             <div>
