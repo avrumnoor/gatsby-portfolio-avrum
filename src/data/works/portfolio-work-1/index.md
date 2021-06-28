@@ -13,7 +13,10 @@ particularly the preferential vacancy sites of mobile ions, regardless of temper
 # Mentors
 
 Dr. Andrey Poletayev, Professor Aaron Lindenberg
+
 _Department of Materials Science and Engineering, Stanford University_
+
+![matsci_logo](./engineering_logo.png)
 
 # Introduction
 
