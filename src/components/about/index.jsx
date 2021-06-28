@@ -36,6 +36,16 @@ const About = () => {
           </AboutSection>
         </ContainerLayout>
       </SectionIntro>
+      <SectionIntro>
+        <AboutSection>
+            <div>
+              <Title> Startups I founded</Title>
+              <Text> <b className="text-primary lined-link">Stanford Product Hub</b></Text>
+              <Text> <b className="text-primary lined-link">Presque Partout Sino</b></Text>
+              <Text> <b className="text-primary lined-link">BELAJAR</b></Text>
+            </div>
+          </AboutSection>
+      </SectionIntro>
     </>
   )
 }

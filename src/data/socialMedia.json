@@ -1,22 +1,22 @@
 [
   {
     "id": 0,
-    "name": "github",
+    "name": "GitHub",
     "url": "https://github.com/avrumnoor"
   },
   {
     "id": 1,
-    "name": "linkedin",
+    "name": "LinkedIn",
     "url": "https://www.linkedin.com/in/avrumnoor/"
   },
   {
     "id": 2,
-    "name": "twitter",
-    "url": "https://twitter.com/"
+    "name": "Instagram",
+    "url": "https://www.instagram.com/avrumatkins/"
   },
   {
     "id": 3,
-    "name": "instagram",
-    "url": "https://www.instagram.com/avrumatkins/"
+    "name": "Email",
+    "url": "mailto:avrum@stanford.edu"
   }
 ]
