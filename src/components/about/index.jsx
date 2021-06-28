@@ -40,7 +40,7 @@ const About = () => {
         <AboutSection>
             <div>
               <Title style="textAlign: center"> Startups I founded</Title>
-              <img src="producthub.png" alt="">Stanford Product Hub</img>
+              <img src="/producthub.png" alt="" />
               <Text> <b className="text-primary lined-link">Stanford Product Hub</b></Text>
               <Text> <b className="text-primary lined-link">Presque Partout Sino</b></Text>
               <Text> <b className="text-primary lined-link">BELAJAR</b></Text>
