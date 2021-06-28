@@ -48,6 +48,7 @@ const About = () => {
             </div>
             <div>
               <Title2>My Skills</Title2>
+              <Text2> <b className="text-primary lined-link">Circuit Design</b></Text2>
               <Text2> <b className="text-primary lined-link">Machine Learning</b></Text2>
               <Text2> <b className="text-primary lined-link">Network Research</b></Text2>
               <Text2> <b className="text-primary lined-link">Game Theory</b></Text2>
