@@ -39,7 +39,8 @@ const About = () => {
       <SectionIntro>
         <AboutSection>
             <div>
-              <Title> Startups I founded</Title>
+              <Title style="textAlign: center"> Startups I founded</Title>
+              <img src="producthub.png" alt="">Stanford Product Hub</img>
               <Text> <b className="text-primary lined-link">Stanford Product Hub</b></Text>
               <Text> <b className="text-primary lined-link">Presque Partout Sino</b></Text>
               <Text> <b className="text-primary lined-link">BELAJAR</b></Text>
