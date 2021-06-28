@@ -39,18 +39,18 @@ const About = () => {
       <SectionIntro>
         <AboutSection>
             <div>
-              <Title style="textAlign: center">My Startups</Title>
+              <Title2>My Startups</Title2>
               <Text> <b className="text-primary lined-link">Stanford Product Hub</b></Text>
               <Text> <b className="text-primary lined-link">Presque Partout Sino</b></Text>
               <Text> <b className="text-primary lined-link">BELAJAR</b></Text>
             </div>
             <div>
-              <Title style="textAlign: center">My Skills</Title>
+              <Title2>My Skills</Title2>
               <Text> <b className="text-primary lined-link">Machine Learning</b></Text>
               <Text> <b className="text-primary lined-link">Network Research</b></Text>
               <Text> <b className="text-primary lined-link">Game Theory</b></Text>
               <Text> <b className="text-primary lined-link">Web Development</b></Text>
-              <Text> <b className="text-primary lined-link">Produt Design</b></Text>
+              <Text> <b className="text-primary lined-link">Product Design</b></Text>
             </div>
           </AboutSection>
       </SectionIntro>

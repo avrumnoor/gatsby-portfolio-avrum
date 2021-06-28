@@ -24,6 +24,16 @@ export const Title = styled.h1`
     font-size: 2rem;
   }
 `
+export const Title2 = styled.h1`
+  text-align: left;
+  font-size: 3rem;
+  text-transform: capitalize;
+  font-family: "GT-Walsheim-Pro-Bold";
+  @media(max-width: ${variables.breakpointPhone}) {
+    font-size: 2rem;
+    text-align: center;
+  }
+`
 export const Text = styled.p`
   font-size: 1.2rem;
   line-height: 2;
