@@ -44,6 +44,10 @@ const About = () => {
               <Text> <b className="text-primary lined-link">Presque Partout Sino</b></Text>
               <Text> <b className="text-primary lined-link">BELAJAR</b></Text>
             </div>
+            <div>
+              <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
+              <SubTitle>My Startups</SubTitle>
+            </div> 
           </AboutSection>
       </SectionIntro>
     </>
