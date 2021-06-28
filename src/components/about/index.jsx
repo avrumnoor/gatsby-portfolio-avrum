@@ -40,20 +40,50 @@ const About = () => {
       <SectionIntro>
         <AboutSection>
             <div>
-              <Title2>My Startups</Title2>
-              <Text2> <b className="text-primary lined-link">Stanford Product Hub</b></Text2>
-              <Text2> <b className="text-primary lined-link">Presque Partout Sino</b></Text2>
+              <Title2>Startups</Title2>
+              <Text2>Founder</Text2>
               <Text2> <b className="text-primary lined-link">BELAJAR</b></Text2>
+              &nbsp;
+              <Text2>Founder</Text2>
               <Text2> <b className="text-primary lined-link">Limbcarnation Prosthetics</b></Text2>
+              &nbsp;
+              <Text2>Co-Founder</Text2>
+              <Text2> <b className="text-primary lined-link">Stanford Product Hub</b></Text2>
+              &nbsp;
+              <Text2>Co-Founder</Text2>
+              <Text2> <b className="text-primary lined-link">Presque Partout Sino</b></Text2>
+              &nbsp;
             </div>
             <div>
-              <Title2>My Skills</Title2>
+              <Title2>Skills</Title2>
               <Text2> <b className="text-primary lined-link">Circuit Design</b></Text2>
               <Text2> <b className="text-primary lined-link">Machine Learning</b></Text2>
               <Text2> <b className="text-primary lined-link">Network Research</b></Text2>
               <Text2> <b className="text-primary lined-link">Game Theory</b></Text2>
               <Text2> <b className="text-primary lined-link">Web Development</b></Text2>
-              <Text2> <b className="text-primary lined-link">Product Design</b></Text2>
+              <Text2> <b className="text-primary lined-link">Product Design and Prototyping</b></Text2>
+            </div>
+          </AboutSection>
+      </SectionIntro>
+      <SectionIntro>
+        <AboutSection>
+            <div>
+              <Title2>Frameworks/Tools</Title2>
+              <Text2> <b className="text-primary lined-link">GitHub</b></Text2>
+              <Text2> <b className="text-primary lined-link">React</b></Text2>
+              <Text2> <b className="text-primary lined-link">Gatsby</b></Text2>
+              <Text2> <b className="text-primary lined-link">Hugo</b></Text2>
+              <Text2> <b className="text-primary lined-link">Jekyll</b></Text2>
+            </div>
+            <div>
+              <Title2>Programming Languages</Title2>
+              <Text2> <b className="text-primary lined-link">Python</b></Text2>
+              <Text2> <b className="text-primary lined-link">C/C++</b></Text2>
+              <Text2> <b className="text-primary lined-link">UNIX</b></Text2>
+              <Text2> <b className="text-primary lined-link">HTML</b></Text2>
+              <Text2> <b className="text-primary lined-link">CSS</b></Text2>
+              <Text2> <b className="text-primary lined-link">JS</b></Text2>
+              <Text2> <b className="text-primary lined-link">Swift</b></Text2>
             </div>
           </AboutSection>
       </SectionIntro>
