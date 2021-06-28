@@ -25,7 +25,7 @@ export const Title = styled.h1`
   }
 `
 export const Title2 = styled.h1`
-  text-align: left;
+  text-align: center;
   font-size: 3rem;
   text-transform: capitalize;
   font-family: "GT-Walsheim-Pro-Bold";
