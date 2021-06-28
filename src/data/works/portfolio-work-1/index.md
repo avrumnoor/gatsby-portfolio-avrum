@@ -18,6 +18,8 @@ _Department of Materials Science and Engineering, Stanford University_
 
 ![matsci_logo](./engineering_logo.png)
 
+&nbsp;
+
 # Introduction
 
 • Solid electrolytes such as β’’-aluminas are a central part of flow batteries.
@@ -25,6 +27,8 @@ _Department of Materials Science and Engineering, Stanford University_
 • β’’-aluminas are used as a model system to understand thermally-activated conduction.
 
 • In β’’-aluminas, the existence of multiple Ea are related to the ordering of mobile ions and the placement of defects.
+
+&nbsp;
 
 # Methods
 
