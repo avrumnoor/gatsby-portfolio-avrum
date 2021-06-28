@@ -39,16 +39,19 @@ const About = () => {
       <SectionIntro>
         <AboutSection>
             <div>
-              <Title style="textAlign: center"> Startups I founded</Title>
-              <img src="/producthub.png" alt="" />
+              <Title style="textAlign: center">My Startups</Title>
               <Text> <b className="text-primary lined-link">Stanford Product Hub</b></Text>
               <Text> <b className="text-primary lined-link">Presque Partout Sino</b></Text>
               <Text> <b className="text-primary lined-link">BELAJAR</b></Text>
             </div>
             <div>
-              <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
-              <SubTitle>My Startups</SubTitle>
-            </div> 
+              <Title style="textAlign: center">My Skills</Title>
+              <Text> <b className="text-primary lined-link">Machine Learning</b></Text>
+              <Text> <b className="text-primary lined-link">Network Research</b></Text>
+              <Text> <b className="text-primary lined-link">Game Theory</b></Text>
+              <Text> <b className="text-primary lined-link">Web Development</b></Text>
+              <Text> <b className="text-primary lined-link">Produt Design</b></Text>
+            </div>
           </AboutSection>
       </SectionIntro>
     </>
