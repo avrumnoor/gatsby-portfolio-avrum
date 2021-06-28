@@ -61,14 +61,18 @@ const About = () => {
         <AboutSection>
             <div>
               <Title2>Frameworks/Tools</Title2>
-              <Text2> For Source Control &nbsp; <b className="text-primary lined-link">GitHub</b></Text2>
-              <Text2> For Web Development &nbsp;<b className="text-primary lined-link">React</b></Text2>
-              <Text2> For Web Development &nbsp;<b className="text-primary lined-link">Gatsby</b></Text2>
-              <Text2> For Web Development &nbsp;<b className="text-primary lined-link">Hugo</b></Text2>
-              <Text2> For Web Development &nbsp;<b className="text-primary lined-link">Jekyll</b></Text2>
-              <Text2> For Deployment &nbsp; <b className="text-primary lined-link">GatsbyCloud</b></Text2>
-              <Text2> For Deployment &nbsp; <b className="text-primary lined-link">GitHub Page</b></Text2>
-              <Text2> For CMS and Deployment &nbsp; <b className="text-primary lined-link">Netlify</b></Text2>
+              <Text2><b className="text-primary lined-link">GitHub</b> Source Control</Text2>
+              <Text2><b className="text-primary lined-link">React</b>,&nbsp;
+              <b className="text-primary lined-link">Gatsby</b>,&nbsp;
+              <b className="text-primary lined-link">Hugo</b>,&nbsp;
+              <b className="text-primary lined-link">Jekyll</b> &nbsp;
+              Web Development
+              </Text2>
+              <Text2><b className="text-primary lined-link">GatsbyCloud</b>,&nbsp;
+              <b className="text-primary lined-link">Netlify</b>,&nbsp;
+              <b className="text-primary lined-link">GitHub Pages</b>&nbsp;
+              CMS & Deployment
+              </Text2>
             </div>
             <div>
               <Title2>Programming Languages</Title2>
