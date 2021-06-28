@@ -17,13 +17,14 @@ export const Avatar =styled(Img)`
   width: 100%;
 `
 
-export const Image =styled(Img)`
-  margin-left: 10px;
+export const ImgContainer =styled(Img)`
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 5px;
   box-shadow: 0px 0px 64px rgba(0, 0, 0, 0.15);
   width: 100%;
 `
-
 export const Title = styled.h1`
   font-size: 3rem;
   text-transform: capitalize;
