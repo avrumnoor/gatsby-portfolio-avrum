@@ -18,7 +18,6 @@ export const Avatar =styled(Img)`
 `
 
 export const ImgContainer =styled(Img)`
-  display: block;
   margin-left: auto;
   margin-right: auto;
   border-radius: 5px;
