@@ -41,10 +41,10 @@ const About = () => {
         <AboutSection>
             <div>
               <Title2>My Startups</Title2>
-              <ImgContainer src={logo} alt="Logo" />
               <Text2> <b className="text-primary lined-link">Stanford Product Hub</b></Text2>
               <Text2> <b className="text-primary lined-link">Presque Partout Sino</b></Text2>
               <Text2> <b className="text-primary lined-link">BELAJAR</b></Text2>
+              <Text2> <b className="text-primary lined-link">Limbcarnation Prosthetics</b></Text2>
             </div>
             <div>
               <Title2>My Skills</Title2>
