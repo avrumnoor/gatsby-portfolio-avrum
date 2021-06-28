@@ -18,12 +18,11 @@ const WorkIndex = ({ data }) => {
             <SubTitle className="text-dark">
               Selected Works
             </SubTitle>
+            <HeaderIntro>
               <SubText>
                 An assortment of my recent research and personal projects.
-                My research interests lie in the applications of game-theoretic machine learning and artificial intelligence on resource allocation of communication networks, 
-                as well as designing human-centered products and studying philosophy.
-                I like to teach myself a little bit of UI/UX design on the side and develop apps that scale well and make people's life easier.
               </SubText>
+            </HeaderIntro>
             <ContainerLayout className="wrapper">
               {works.map(({ node }) => {
               const title = node.frontmatter.title || node.fields.slug
