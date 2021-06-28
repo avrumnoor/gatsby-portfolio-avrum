@@ -17,7 +17,8 @@ export const Avatar =styled(Img)`
   width: 100%;
 `
 
-export const ImgContainer =styled(Img)`
+export const ImgContainer =styled.img`
+  display: block;
   margin-left: auto;
   margin-right: auto;
   border-radius: 5px;

@@ -1,7 +1,7 @@
 import React from "react"
 import logo from "./producthub.png"
 import { useStaticQuery, graphql } from "gatsby"
-import {AboutSection, Avatar, Title, Title2, Text, Text2, SubTitle} from './style';
+import {AboutSection, Avatar, Title, Title2, Text, Text2, SubTitle, ImgContainer} from './style';
 import {SectionIntro, ContainerLayout, ResumeButton} from "../common";
 
 const About = () => {
@@ -41,7 +41,7 @@ const About = () => {
         <AboutSection>
             <div>
               <Title2>My Startups</Title2>
-              <img src={logo} alt="Logo" align="middle"/>
+              <ImgContainer src={logo} alt="Logo" />
               <Text2> <b className="text-primary lined-link">Stanford Product Hub</b></Text2>
               <Text2> <b className="text-primary lined-link">Presque Partout Sino</b></Text2>
               <Text2> <b className="text-primary lined-link">BELAJAR</b></Text2>
