@@ -19,7 +19,7 @@ const BlogIndex = ({ data }) => {
           <ContainerLayout>
 
             <SubTitle>
-              Articles
+              Blog Articles
             </SubTitle>
             <HeaderIntro>
               <SubText>
