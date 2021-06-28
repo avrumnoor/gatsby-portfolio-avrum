@@ -69,11 +69,13 @@ const About = () => {
               Web Development
               </Text2>
               <Text2><b className="text-primary lined-link">GatsbyCloud</b>,&nbsp;
-              <b className="text-primary lined-link">Netlify</b>,
+              <b className="text-primary lined-link">Netlify</b>,&nbsp;
               <b className="text-primary lined-link">GitHub Pages</b>&nbsp;
-              CMS & Deployment
+              CMS&nbsp;&&nbsp;Deployment&nbsp;
+              </Text2>
+              <Text2>
               <b className="text-primary lined-link">Inkscape</b>,&nbsp;
-              <b className="text-primary lined-link">Photoshop</b>,&nbsp;
+              <b className="text-primary lined-link">Photoshop</b>&nbsp;
               Isometric&nbsp;art&nbsp;&&nbsp;graphics&nbsp;design
               </Text2>
             </div>
