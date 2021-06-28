@@ -60,7 +60,7 @@ const About = () => {
       <SectionIntro>
         <AboutSection>
             <div>
-              <Title2>Frameworks/Tools</Title2>
+              <Title2>Frameworks & Tools</Title2>
               <Text2><b className="text-primary lined-link">GitHub</b> Source Control</Text2>
               <Text2><b className="text-primary lined-link">React</b>,&nbsp;
               <b className="text-primary lined-link">Gatsby</b>,&nbsp;
@@ -71,7 +71,10 @@ const About = () => {
               <Text2><b className="text-primary lined-link">GatsbyCloud</b>,&nbsp;
               <b className="text-primary lined-link">Netlify</b>,&nbsp;
               <b className="text-primary lined-link">GitHub Pages</b>&nbsp;
-              CMS & Deployment
+              CMS&nbsp;&&nbsp;Deployment
+              <b className="text-primary lined-link">Inkscape</b>,&nbsp;
+              <b className="text-primary lined-link">Adobe Photoshop</b>,&nbsp;
+              Isometric&nbsp;art&nbsp;&&nbsp;graphics&nbsp;design
               </Text2>
             </div>
             <div>
