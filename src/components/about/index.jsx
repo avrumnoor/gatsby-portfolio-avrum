@@ -49,13 +49,14 @@ const About = () => {
         <ContainerLayout>
           <AboutSection>
             <div>
-              <Title>More About Me</Title>
+              <Title>About Me</Title>
               <Text> I like to teach myself a little bit of <b className="text-primary lined-link">UI/UX design</b> on 
               the side and I'm a huge proponent for <b className="text-primary lined-link">skeuomorphism</b>.
                 My research interests lie in the applications of <b className="text-primary lined-link">game-theoretic</b> machine learning 
                 and artificial intelligence on resource allocation of communication networks, as well as 
                 designing <b className="text-primary lined-link">human-centered products</b> and studying philosophy.
               </Text>
+              <ResumeButton2 href="" target="_blank"> More about me </ResumeButton2>
               </div>
               <div>
               <Avatar fluid={data.placeholderImage2.childImageSharp.fluid} alt="user photo" />
