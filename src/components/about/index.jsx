@@ -2,7 +2,7 @@ import React from "react"
 import logo from "./producthub.png"
 import { useStaticQuery, graphql } from "gatsby"
 import {AboutSection, Avatar, Title, Title2, Text, Text2, SubTitle, ImgContainer} from './style';
-import {SectionIntro, ContainerLayout, ResumeButton} from "../common";
+import {SectionIntro, ContainerLayout, ResumeButton, ResumeButton2} from "../common";
 
 const About = () => {
   const data = useStaticQuery(graphql`
