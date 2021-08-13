@@ -29,11 +29,7 @@ const About = () => {
       <SectionIntro>
         <ContainerLayout>
           <AboutSection>
-            <div>
-              <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
-              <SubTitle>That's me!</SubTitle>
-            </div> 
-            <div>
+          <div>
               <Title> Hello, I’m <b className="text-primary lined-link">Avrum Noor</b>.</Title>
               <Text> I'm a junior studying <b className="text-secondary lined-link2">Electrical Engineering</b> at 
               <b className="text-tertiary lined-link3">Stanford University</b>, advised by Prof. Nicholas
@@ -42,12 +38,19 @@ const About = () => {
               designing websites (like this one), building human-centered products, and studying philosophy.</Text>
               <ResumeButton href="resume.pdf" target="_blank"> Download resume </ResumeButton>
             </div>
+            <div>
+              <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
+              <SubTitle>That's me!</SubTitle>
+            </div> 
           </AboutSection>
         </ContainerLayout>
       </SectionIntro>
       <SectionIntro>
         <ContainerLayout>
           <AboutSection>
+              <div>
+              <Avatar fluid={data.placeholderImage2.childImageSharp.fluid} alt="user photo" />
+            </div>
             <div>
               <Title>About Me</Title>
               <Text> I’m originally from Jakarta, Indonesia. </Text>
@@ -60,9 +63,6 @@ const About = () => {
               </Text>
               <ResumeButton2 href="" target="_blank"> More about me </ResumeButton2>
               </div>
-              <div>
-              <Avatar fluid={data.placeholderImage2.childImageSharp.fluid} alt="user photo" />
-            </div>
           </AboutSection>
         </ContainerLayout>
       </SectionIntro>
