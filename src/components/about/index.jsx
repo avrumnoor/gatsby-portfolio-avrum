@@ -29,7 +29,7 @@ const About = () => {
       <SectionIntro>
         <ContainerLayout>
           <AboutSection>
-          <div>
+            <div>
               <Title> Hello, I’m <b className="text-primary lined-link">Avrum Noor</b>.</Title>
               <Text> I'm a junior studying <b className="text-secondary lined-link2">Electrical Engineering</b> at 
               <b className="text-tertiary lined-link3">Stanford University</b>, advised by Prof. Nicholas
@@ -48,7 +48,7 @@ const About = () => {
       <SectionIntro>
         <ContainerLayout>
           <AboutSection>
-              <div>
+            <div>
               <Avatar fluid={data.placeholderImage2.childImageSharp.fluid} alt="user photo" />
             </div>
             <div>
@@ -62,7 +62,7 @@ const About = () => {
                 also attended Stanford. 
               </Text>
               <ResumeButton2 href="" target="_blank"> More about me </ResumeButton2>
-              </div>
+            </div>
           </AboutSection>
         </ContainerLayout>
       </SectionIntro>
