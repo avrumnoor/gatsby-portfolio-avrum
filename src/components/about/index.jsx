@@ -14,12 +14,7 @@ const About = () => {
           }
         }
       }
-    }
-  `)
-
-  const data2 = useStaticQuery(graphql`
-    query {
-      placeholderImage: file(relativePath: { eq: "profilepic2web.webp" }) {
+      placeholderImage2: file(relativePath: { eq: "profilepic2web.webp" }) {
         childImageSharp {
           fluid(maxWidth: 550) {
             ...GatsbyImageSharpFluid
@@ -28,6 +23,7 @@ const About = () => {
       }
     }
   `)
+
   return (
     <>
       <SectionIntro>
@@ -62,7 +58,7 @@ const About = () => {
               </Text>
               </div>
               <div>
-              <Avatar fluid={data2.placeholderImage.childImageSharp.fluid} alt="user photo" />
+              <Avatar fluid={data2.placeholderImage2.childImageSharp.fluid} alt="user photo" />
             </div>
           </AboutSection>
         </ContainerLayout>
