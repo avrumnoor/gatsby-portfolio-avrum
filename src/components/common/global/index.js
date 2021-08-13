@@ -109,6 +109,12 @@ export const GlobalStyle = createGlobalStyle`
     .text-primary {
       color: ${variables.primary};
     }
+    .text-secondary {
+      color: ${variables.secondary};
+    }
+    .text-tertiary {
+      color: ${variables.tertiary};
+    }
     .align-middle {
       vertical-align: middle;
     }
