@@ -35,11 +35,14 @@ const About = () => {
             </div> 
             <div>
               <Title> Hello, I’m Avrum Noor.</Title>
-              <Text> I'm a junior studying <b className="text-primary lined-link">Electrical Engineering</b> at <b className="text-primary lined-link">Stanford, University</b>.</Text>
-              <Text> I love working with modern technologies, studying computer networks and systems, and designing interactive websites.</Text>
+              <Text>Something tells me my parents fancy cars, 
+                so much so that they dared to name me after the revving sound of a car’s engine: <b>Vroom!</b></Text>
+              <Text> I'm a junior studying Electrical Engineeringat at Stanford, University, advised by Prof. Nicholas
+              Bambos and Ilai Bistritz. My research interests lie in the applications of game-theoretic machine learning 
+                and artificial intelligence on resource allocation of communication networks. I also enjoy
+                designing websites (like this one), building human-centered products, and studying philosophy.</Text>
               <Text> I'm currently researching network algorithms and resource allocation tools at Stanford's NetLab. 
               </Text>
-              <Text> I'm originally from <b className="text-primary lined-link">Jakarta, Indonesia</b>.</Text>
               <ResumeButton href="resume.pdf" target="_blank"> Download resume </ResumeButton>
             </div>
           </AboutSection>
@@ -50,11 +53,18 @@ const About = () => {
           <AboutSection>
             <div>
               <Title>About Me</Title>
-              <Text> I like to teach myself a little bit of <b className="text-primary lined-link">UI/UX design</b> on 
-              the side and I'm a huge proponent for <b className="text-primary lined-link">skeuomorphism</b>.
-                My research interests lie in the applications of <b className="text-primary lined-link">game-theoretic</b> machine learning 
-                and artificial intelligence on resource allocation of communication networks, as well as 
-                designing <b className="text-primary lined-link">human-centered products</b> and studying philosophy.
+              <Text> I’m originally from Jakarta, Indonesia. </Text>
+              <Text>
+                Other than working with computers and networks, I like to teach myself UI/UX design and wireframing on the side, so it's only
+                right that one of the people whom I look up to growing up is Scott Forstall, the genius behind Apple's iOS, who 
+                also attended Stanford. 
+                I didn’t realize this until the end of my freshman year, which really got me thinking about how beautiful 
+                the universe works sometimes.
+              </Text>
+              <Text>
+                Outside of work, I read a lot of science fiction. My favorite Sci-Fi author is Philip K. Dick. A lot of
+                the plots and themes of the science fiction works I read revolves around artificial intelligence, parallel universes,
+                and J.W. Dunne's theory of serialism.
               </Text>
               <ResumeButton2 href="" target="_blank"> More about me </ResumeButton2>
               </div>
