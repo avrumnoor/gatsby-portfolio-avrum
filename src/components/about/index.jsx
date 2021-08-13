@@ -31,13 +31,9 @@ const About = () => {
           <AboutSection>
             <div>
               <Title> Hello, I’m <b className="text-primary lined-link">Avrum Noor</b>, a junior studying 
-              <b className="text-secondary lined-link2">Electrical Engineering</b> at 
-              <b className="text-tertiary lined-link3">Stanford University</b>.</Title>
-              <Text> I'm fortunate to be advised by Prof. Nicholas
-              Bambos and Ilai Bistritz. My research interests lie in the applications of game-theoretic machine learning 
-              and artificial intelligence on resource allocation of communication networks. I also enjoy
-              designing websites (like this one), building human-centered products, and studying philosophy.</Text>
-              <ResumeButton href="resume.pdf" target="_blank"> Download resume </ResumeButton>
+              &nbsp;<b className="text-secondary lined-link2">Electrical Engineering</b> at 
+              &nbsp;<b className="text-tertiary lined-link3">Stanford University</b>.</Title>
+              <ResumeButton href="resume.pdf" target="_blank"> Download my resume </ResumeButton>
             </div>
             <div>
               <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
@@ -53,13 +49,10 @@ const About = () => {
             </div>
             <div>
               <Title>About Me</Title>
-              <Text> I’m originally from Jakarta, Indonesia. </Text>
-              <Text>
-                Currently, I'm researching network algorithms and resource allocation tools at Stanford's NetLab. 
-                Other than working with computers and networks, I like to teach myself UI/UX design and wireframing on the side, 
-                so it's only
-                right that one of the people whom I look up to growing up is Scott Forstall, the genius behind Apple's iOS, who 
-                also attended Stanford. 
+              <Text> I’m originally from Jakarta, Indonesia. As an electrical engineering major at Stanford, I'm advised by 
+                Prof. Nicholas Bambos and Ilai Bistritz. My research interests lie in the applications of game-theoretic 
+                machine learning and artificial intelligence on resource allocation of communication networks. I also enjoy
+                designing websites (like this one), building human-centered products, and studying philosophy.
               </Text>
               <ResumeButton2 href="" target="_blank"> More about me </ResumeButton2>
             </div>
