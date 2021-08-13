@@ -31,18 +31,14 @@ const About = () => {
           <AboutSection>
             <div>
               <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
-              <SubTitle>Electrical Engineer & Web Developer</SubTitle>
+              <SubTitle>That's me!</SubTitle>
             </div> 
             <div>
               <Title> Hello, I’m Avrum Noor.</Title>
-              <Text>Something tells me my parents fancy cars, 
-                so much so that they dared to name me after the revving sound of a car’s engine: <b>Vroom!</b></Text>
-              <Text> I'm a junior studying Electrical Engineeringat at Stanford, University, advised by Prof. Nicholas
+              <Text> I'm a junior studying Electrical Engineering at Stanford, University, advised by Prof. Nicholas
               Bambos and Ilai Bistritz. My research interests lie in the applications of game-theoretic machine learning 
                 and artificial intelligence on resource allocation of communication networks. I also enjoy
                 designing websites (like this one), building human-centered products, and studying philosophy.</Text>
-              <Text> I'm currently researching network algorithms and resource allocation tools at Stanford's NetLab. 
-              </Text>
               <ResumeButton href="resume.pdf" target="_blank"> Download resume </ResumeButton>
             </div>
           </AboutSection>
@@ -58,13 +54,6 @@ const About = () => {
                 Other than working with computers and networks, I like to teach myself UI/UX design and wireframing on the side, so it's only
                 right that one of the people whom I look up to growing up is Scott Forstall, the genius behind Apple's iOS, who 
                 also attended Stanford. 
-                I didn’t realize this until the end of my freshman year, which really got me thinking about how beautiful 
-                the universe works sometimes.
-              </Text>
-              <Text>
-                Outside of work, I read a lot of science fiction. My favorite Sci-Fi author is Philip K. Dick. A lot of
-                the plots and themes of the science fiction works I read revolves around artificial intelligence, parallel universes,
-                and J.W. Dunne's theory of serialism.
               </Text>
               <ResumeButton2 href="" target="_blank"> More about me </ResumeButton2>
               </div>
