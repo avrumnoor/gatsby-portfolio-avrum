@@ -26,7 +26,7 @@ export const ImgContainer =styled.img`
   width: 100%;
 `
 export const Title = styled.h1`
-  font-size: 3rem;
+  font-size: 1.8rem;
   text-transform: capitalize;
   font-family: "GT-Walsheim-Pro-Bold";
   @media(max-width: ${variables.breakpointPhone}) {
@@ -35,7 +35,7 @@ export const Title = styled.h1`
 `
 export const Title2 = styled.h1`
   text-align: center;
-  font-size: 3rem;
+  font-size: 1.8rem;
   text-transform: capitalize;
   font-family: "GT-Walsheim-Pro-Bold";
   @media(max-width: ${variables.breakpointPhone}) {
