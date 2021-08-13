@@ -35,11 +35,11 @@ const About = () => {
             </div> 
             <div>
               <Title> Hello, I’m <b className="text-primary lined-link">Avrum Noor</b>.</Title>
-              <Text> I'm a junior studying <b className="text-secondary lined-link2">Electrical Engineering at 
-              Stanford University</b>, advised by Prof. Nicholas
-              Bambos and Ilai Bistritz. My research interests lie in the applications of <b className="text-tertiary lined-link3">game-theoretic machine learning 
-                and artificial intelligence on resource allocation of communication networks</b>. I also enjoy
-                designing websites (like this one), building human-centered products, and studying philosophy.</Text>
+              <Text> I'm a junior studying <b className="text-secondary lined-link2">Electrical Engineering</b> at 
+              <b className="text-tertiary lined-link3">Stanford University</b>, advised by Prof. Nicholas
+              Bambos and Ilai Bistritz. My research interests lie in the applications of game-theoretic machine learning 
+              and artificial intelligence on resource allocation of communication networks. I also enjoy
+              designing websites (like this one), building human-centered products, and studying philosophy.</Text>
               <ResumeButton href="resume.pdf" target="_blank"> Download resume </ResumeButton>
             </div>
           </AboutSection>
