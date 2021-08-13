@@ -33,6 +33,10 @@ const About = () => {
               <Title> Hello, I’m <b className="text-primary lined-link">Avrum Noor</b>, a junior studying 
               &nbsp;<b className="text-secondary lined-link2">Electrical Engineering</b> at 
               &nbsp;<b className="text-tertiary lined-link3">Stanford University</b>.</Title>
+              <Text> 
+                Send me an <a href = "">email</a> or find me on <a href = "">LinkedIn</a> / 
+                <a href = "">GitHub</a> / <a href = "">Twitter</a>.
+              </Text>
               <ResumeButton href="resume.pdf" target="_blank"> Download my resume </ResumeButton>
             </div>
             <div>
