@@ -16,6 +16,18 @@ const About = () => {
       }
     }
   `)
+
+  const data2 = useStaticQuery(graphql`
+    query {
+      placeholderImage: file(relativePath: { eq: "profilepic2web.webp" }) {
+        childImageSharp {
+          fluid(maxWidth: 550) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+    }
+  `)
   return (
     <>
       <SectionIntro>
@@ -40,10 +52,6 @@ const About = () => {
       <SectionIntro>
         <ContainerLayout>
           <AboutSection>
-          <div>
-              <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
-              <SubTitle>Electrical Engineer & Web Developer</SubTitle>
-            </div>
             <div>
               <Title>More About Me</Title>
               <Text> I like to teach myself a little bit of <b className="text-primary lined-link">UI/UX design</b> on 
@@ -53,6 +61,9 @@ const About = () => {
                 designing <b className="text-primary lined-link">human-centered products</b> and studying philosophy.
               </Text>
               </div>
+              <div>
+              <Avatar fluid={data2.placeholderImage.childImageSharp.fluid} alt="user photo" />
+            </div>
           </AboutSection>
         </ContainerLayout>
       </SectionIntro>
