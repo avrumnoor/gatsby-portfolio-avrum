@@ -34,8 +34,9 @@ const About = () => {
               &nbsp;<b className="text-secondary lined-link2">Electrical Engineering</b> at 
               &nbsp;<b className="text-tertiary lined-link3">Stanford University</b>.</Title>
               <Text> 
-                Send me an <a href = "">email</a> or find me on <a href = "">LinkedIn</a> / 
-                <a href = "">GitHub</a> / <a href = "">Twitter</a>.
+                If you're interested in connecting with me or have any questions about any of my works, 
+                feel free to send me an <a href = "mailto:avrum@stanford.edu">email</a> or 
+                find me on <a href = "https://www.linkedin.com/in/avrumnoor/">LinkedIn</a>/<a href = "https://github.com/avrumnoor">GitHub</a>.
               </Text>
               <ResumeButton href="resume.pdf" target="_blank"> Download my resume </ResumeButton>
             </div>

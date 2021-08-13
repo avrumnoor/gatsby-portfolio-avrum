@@ -47,7 +47,7 @@ export const Text = styled.p`
   line-height: 2;
   color: #69737c;
   a {
-    color: #3F51B5;
+    color: #69737c;
     text-decoration: underline;
   }
 `
