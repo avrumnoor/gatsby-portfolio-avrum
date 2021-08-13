@@ -34,8 +34,9 @@ const About = () => {
               <SubTitle>That's me!</SubTitle>
             </div> 
             <div>
-              <Title> Hello, I’m Avrum Noor.</Title>
-              <Text> I'm a junior studying Electrical Engineering at Stanford, University, advised by Prof. Nicholas
+              <Title> Hello, I’m <b className="text-primary lined-link">Avrum Noor</b>.</Title>
+              <Text> I'm a junior studying <b className="text-primary lined-link2">Electrical Engineering</b> at 
+              <b className="text-primary3 lined-link3">Stanford University</b>, advised by Prof. Nicholas
               Bambos and Ilai Bistritz. My research interests lie in the applications of game-theoretic machine learning 
                 and artificial intelligence on resource allocation of communication networks. I also enjoy
                 designing websites (like this one), building human-centered products, and studying philosophy.</Text>
@@ -51,7 +52,9 @@ const About = () => {
               <Title>About Me</Title>
               <Text> I’m originally from Jakarta, Indonesia. </Text>
               <Text>
-                Other than working with computers and networks, I like to teach myself UI/UX design and wireframing on the side, so it's only
+                Currently, I'm researching network algorithms and resource allocation tools at Stanford's NetLab. 
+                Other than working with computers and networks, I like to teach myself UI/UX design and wireframing on the side, 
+                so it's only
                 right that one of the people whom I look up to growing up is Scott Forstall, the genius behind Apple's iOS, who 
                 also attended Stanford. 
               </Text>
