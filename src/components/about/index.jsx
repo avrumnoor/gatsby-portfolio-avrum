@@ -30,9 +30,9 @@ const About = () => {
         <ContainerLayout>
           <AboutSection>
             <div>
-              <Title> Hello, I’m <b className="text-primary lined-link">Avrum Noor</b>, a junior studying 
-              <b className="text-primary lined-link2">Electrical Engineering</b> at 
-              <b className="text-primary lined-link3">Stanford University</b>.</Title>
+              <SubTitle> Hello, I’m <b className="text-primary lined-link">Avrum Noor</b>, a junior studying 
+              <b className="text-secondary lined-link2">Electrical Engineering</b> at 
+              <b className="text-tertiary lined-link3">Stanford University</b>.</SubTitle>
               <Text> I'm fortunate to be advised by Prof. Nicholas
               Bambos and Ilai Bistritz. My research interests lie in the applications of game-theoretic machine learning 
               and artificial intelligence on resource allocation of communication networks. I also enjoy
