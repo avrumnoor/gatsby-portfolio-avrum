@@ -21,6 +21,13 @@ const About = () => {
           }
         }
       }
+      placeholderImage3: file(relativePath: { eq: "belajarapp.webp" }) {
+        childImageSharp {
+          fluid(maxWidth: 550) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
     }
   `)
 
@@ -43,6 +50,23 @@ const About = () => {
             <div>
               <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
             </div> 
+          </AboutSection>
+        </ContainerLayout>
+      </SectionIntro>
+      <SectionIntro>
+        <ContainerLayout>
+          <AboutSection>
+            <div>
+              <Avatar fluid={data.placeholderImage3.childImageSharp.fluid} alt="user photo" />
+            </div>
+            <div>
+              <Title>BELAJAR</Title>
+              <Text> BELAJAR is the ultimate app for high school students. 
+                It helps you manage your homeworks and keep track of your productivity. 
+                Better than PowerSchool!
+              </Text>
+              <ResumeButton2 href="https://belajarapp.carrd.co/" target="_blank">Visit Website</ResumeButton2>
+            </div>
           </AboutSection>
         </ContainerLayout>
       </SectionIntro>
