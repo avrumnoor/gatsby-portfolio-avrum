@@ -58,7 +58,7 @@ const About = () => {
               </Text>
               </div>
               <div>
-              <Avatar fluid={data2.placeholderImage2.childImageSharp.fluid} alt="user photo" />
+              <Avatar fluid={data.placeholderImage2.childImageSharp.fluid} alt="user photo" />
             </div>
           </AboutSection>
         </ContainerLayout>
